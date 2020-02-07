@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceInteraction</string>
+    <string name="speech_prompt">Say something</string>
+    <string name="speech_not_supported">Speach not supported</string>
+</resources>
